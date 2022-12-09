@@ -30,7 +30,7 @@ this code can draw UML,have you learned?
 ```
 Let's create a uml for anything you want
 ```
-![image](https://user-images.githubusercontent.com/47078512/206760522-5c5db1af-934b-46be-b219-2b1616c1587f.png)
+![image](https://user-images.githubusercontent.com/47078512/206779567-4b0aec7c-db6a-4a07-a54e-c97f920a0796.png)
 
 
 ### 教他換顏色
@@ -42,10 +42,10 @@ Let's create a uml for anything you want
 ```
 Let's change the color to light yellow
 ```
-![image](https://user-images.githubusercontent.com/47078512/206760119-326bc510-05e7-46c8-a093-d0aecce88e21.png)
+![image](https://user-images.githubusercontent.com/47078512/206779531-742c4ecf-e27d-4563-a460-36adbfa87aa8.png)
 
 #### 隨機測試
 ```
 Let's create another uml and use any color you want
 ```
-![image](https://user-images.githubusercontent.com/47078512/206764973-1c7df8d3-afc9-4600-bcb9-d31b2ab0998b.png)
+![image](https://user-images.githubusercontent.com/47078512/206779506-e1f67b5a-a768-47d7-bbf6-d4142cb19fa2.png)
